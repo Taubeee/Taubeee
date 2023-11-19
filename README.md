@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi! 👋
+* 🌱 I’m studying Comp-Sci at AGH University of Science and Technology
+* 🤔 I’m looking for help with Algebra and Mathematical Analysis
+* 📫 How to reach me: impossible
 
+
+I like dogs much better
+
+than people could ever be
 <!--
-**Taubeee/Taubeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
