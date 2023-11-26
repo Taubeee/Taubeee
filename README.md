@@ -1,10 +1,10 @@
+# [Taubeee website](taubeee.github.io)
+
 ### Hi! 👋
 * 🌱 I’m studying Comp-Sci at AGH University of Science and Technology
 * 🤔 I’m looking for help with Algebra and Mathematical Analysis
 * 📫 How to reach me: impossible
-
-
-I like dogs much better
+### I like dogs much better
 
 than people could ever be
 <!--
