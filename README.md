@@ -7,6 +7,9 @@
 ### I like dogs much better
 
 than people could ever be
+
+## [Fork repozytorium](https://publications.scss.tcd.ie/tech-reports/reports.01/TCD-CS-2001-29.pdf)
+## [Link do artykułu na PapersWithCode](https://paperswithcode.com/paper/gaussian-grouping-segment-and-edit-anything)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
